@@ -17,7 +17,7 @@ export function Header() {
         interfaces. Webmaster at Linear.
       </p>
       <p className="text-gray-400">
-        In the past I've developed the Vercel design system, website, and
+        In the past I&apos;ve developed the Vercel design system, website, and
         dashboard.
       </p>
     </motion.header>
