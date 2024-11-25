@@ -15,12 +15,12 @@ export function Now() {
         <p>
           Developing skill through doing, guiltlessly exploring passion and
           interests, imbuing quality. Mindful that{" "}
-          <em>everything around me is someone's life work</em>.
+          <em>everything around me is someone&apos;s life work</em>.
         </p>
         <p>
           All I want to do is build websites. Typography, motion design,
           copywriting, performance— the web is an endless medium of opportunity
-          and creativity of which I've only scratched the surface.
+          and creativity of which I&apos;ve only scratched the surface.
         </p>
         <p>
           Enjoying deep, dark, boring dance music: songs that set the pace in
